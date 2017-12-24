@@ -1,0 +1,29 @@
+-= royal flush =-
+straight flush beginning from 10 up to A
+
+-= straight flush =-
+five cards with asccending position of the same colour
+-= four of a kind =-
+four cards with the same position
+
+-= full house =-
+a pair with a three of a kind
+
+-= flush =- 
+five cards with the same colour
+
+-= straight =-
+five cards with asccending positions
+
+-= three of a kind =-
+three cards with the same pos,
+
+-= two pair =-
+two pairs, player with the pair with highest pos wins
+
+-= pair =-
+two cards with the same pos
+highest pos wins
+
+-= high card =-
+highest pos wins
